@@ -31,7 +31,7 @@ pip install streamlit ppdeep pandas
 
 Для linux:
 ```bash
-stereamlit run app.py
+streamlit run app.py
 ```
 
 Для windows:
